@@ -19,7 +19,7 @@
     "frontmatter-markdown-loader": "^3.4.3",
     "jquery": "^3.5.1",
     "lazysizes": "^5.2.2",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.3.2",
     "nuxt": "^2.0.0",
     "save": "^2.4.0",
     "vue-slick": "^1.1.15",
